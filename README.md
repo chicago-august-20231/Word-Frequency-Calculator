@@ -12,9 +12,9 @@ Live Application Link: https://chicago-august-20231.github.io/word-checker/
 
 As A user trying to learn the English Language,
 
-I WANT to see the frequency of words in the English dictionary or see how frequently words in poems are used.
+I WANT to see the frequency of how often words appear in the English language or see how frequently words in poems are used.
 
-SO THAT I can see which words are used more often than others and optimize my language learning by prioritizing more common words.
+SO THAT I can see which words are used more often than others, and optimize my language learning by prioritizing more common words.
 
 # Description :
 
